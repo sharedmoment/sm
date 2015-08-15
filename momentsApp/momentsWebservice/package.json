@@ -1,0 +1,20 @@
+{
+  "name": "momentsWebservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index_ws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index_ws.js"
+  },
+  "author": "Roni and Tomer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "cloudinary": "^1.2.1",
+    "express": "^4.12.4",
+    "formidable": "^1.0.17",
+    "fs": "0.0.2",
+    "mongoose": "^4.0.7"
+  }
+}
